@@ -1,0 +1,1 @@
+document.write("<h1>Projecte M06</h1>");
